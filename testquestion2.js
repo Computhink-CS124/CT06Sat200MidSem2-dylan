@@ -1,18 +1,13 @@
-shapeColor(255)
-shapeY(0)
-shapeX(0)
-
-
-
-
-
+let shapeColor (255);
+let shapeY (0);
+let shapeX(0);
 
 function steup() {
     createCanvas(600,600);
     background(220);
 }
 function draw() {
-    for (let count = 1; count < 11; count++) {;
+    for (let count = 1; count < 11; count++) {
         circle(shapeY,shapeX,50);
         fill(shapeColor);
         shapeColor - 25.5
