@@ -3,5 +3,5 @@ function steup() {
     background(220);
 }
 function draw() {
-    for (let count = 1; count < 11; count++)876546789
+    for (let count = 1; count < 11; count++)8
 }
