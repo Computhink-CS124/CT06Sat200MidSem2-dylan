@@ -15,5 +15,6 @@ function draw() {
     for (let count = 1; count < 11; count++);
         circle()
         shapeColor - 25.5
-        shapeY
+        shapeY - 50
+        shapeX
 }
