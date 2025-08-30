@@ -13,8 +13,8 @@ function steup() {
 }
 function draw() {
     for (let count = 1; count < 11; count++);
-        circle(shapeY,shapeX,50)
-        fill(shapeColor)
+        circle(shapeY,shapeX,50);
+        fill(shapeColor);
         shapeColor - 25.5
         shapeY - 50
         shapeX + 50
