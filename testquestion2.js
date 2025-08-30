@@ -1,6 +1,6 @@
 shapeColor(255)
-shapeY(600)
-
+shapeY(0)
+shapeX()
 
 
 
