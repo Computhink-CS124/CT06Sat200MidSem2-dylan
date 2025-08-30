@@ -16,5 +16,5 @@ function draw() {
         circle()
         shapeColor - 25.5
         shapeY - 50
-        shapeX
+        shapeX + 50
 }
