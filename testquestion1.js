@@ -1,6 +1,6 @@
 function steup(){
     createCanvas(600,400);
-    background(0);
+    background("black");
 }
 function draw() {
     ellipse(150,200,100,100);
