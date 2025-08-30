@@ -4,4 +4,5 @@ function steup() {
 }
 function draw() {
     for (let count = 1; count < 11; count++);
+        
 }
