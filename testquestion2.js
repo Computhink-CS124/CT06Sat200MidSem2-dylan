@@ -1,5 +1,5 @@
 shapeColor(255)
-
+shape
 
 
 function steup() {
@@ -8,5 +8,5 @@ function steup() {
 }
 function draw() {
     for (let count = 1; count < 11; count++);
-        
+        circle()
 }
