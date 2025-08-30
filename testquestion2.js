@@ -1,5 +1,11 @@
 shapeColor(255)
-shape
+shapeHeight()
+
+
+
+
+
+
 function steup() {
     createCanvas(600,600);
     background(220);
