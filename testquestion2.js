@@ -3,5 +3,5 @@ function steup() {
     background(220);
 }
 function draw() {
-    circle
+    
 }
